@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appclean/appclean.iml" filepath="$PROJECT_DIR$/appclean/appclean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appdagger/appdagger.iml" filepath="$PROJECT_DIR$/appdagger/appdagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appdatabinding/appdatabinding.iml" filepath="$PROJECT_DIR$/appdatabinding/appdatabinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apploader/apploader.iml" filepath="$PROJECT_DIR$/apploader/apploader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/todoapp.iml" filepath="$PROJECT_DIR$/todoapp.iml" />
+    </modules>
+  </component>
+</project>
